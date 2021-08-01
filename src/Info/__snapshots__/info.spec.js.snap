@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info component should render Info component 1`] = `
+<Fragment>
+   
+  <h1>
+    0
+  </h1>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  ---------------
+  <input
+    onChange={[Function]}
+    type="text"
+  />
+</Fragment>
+`;
